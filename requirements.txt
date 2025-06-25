@@ -1,0 +1,15 @@
+python-telegram-bot==20.7
+pybit==5.7.0
+https://download.pytorch.org/whl/cpu/torch-2.0.1%2Bcpu-cp310-cp310-linux_x86_64.whl
+pandas==2.0.3
+numpy==1.24.3
+python-dotenv==1.0.0
+redis==5.0.1
+optuna==3.3.0
+pandas_ta==0.3.14b0
+matplotlib==3.7.2
+scikit-learn==1.3.0
+requests==2.31.0
+xgboost==2.0.3
+joblib==1.3.2
+pycryptodome==3.20.0
